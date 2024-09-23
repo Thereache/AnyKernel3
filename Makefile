@@ -1,5 +1,5 @@
 # Zip Naming
-KNAME ?= Scarlet-v1.0
+KNAME ?= SHAKTIMAN
 CODENAME ?= redwood
 DATE ?= $(shell date "+%H%M")
 
