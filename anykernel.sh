@@ -4,9 +4,9 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=Scarlet
+kernel.string=Shaktiman
 kernel.revision=5.4
-kernel.made=Tashar @ Atom-X-Devs
+kernel.made=Thereache
 anykernel3.made=osm0sis @ xda-developers
 kernel.compiler=Neutron Clang 19.0.0
 message.word=Thank you for installing Scarlet
