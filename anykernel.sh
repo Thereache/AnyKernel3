@@ -4,12 +4,12 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=Scarlet
+kernel.string=velocore
 kernel.revision=5.4
-kernel.made=Tashar @ Atom-X-Devs
+kernel.made=Thereache @ Velocity
 anykernel3.made=osm0sis @ xda-developers
 kernel.compiler=Neutron Clang 19.0.0
-message.word=Thank you for installing Scarlet
+message.word=Thank you for installing velocore
 do.devicecheck=1
 do.modules=1
 do.systemless=1
