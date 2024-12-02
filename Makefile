@@ -1,5 +1,5 @@
 # Zip Naming
-KNAME ?= Scarlet-v1.0
+KNAME ?= Velocore-v1.0
 CODENAME ?= redwood
 DATE ?= $(shell date "+%H%M")
 
